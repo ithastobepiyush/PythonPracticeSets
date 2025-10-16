@@ -44,4 +44,4 @@ The repository will continue to grow with **more advanced topics, projects, and 
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/PythonPracticeSets.git
+git clone https://github.com/ithastobepiyush/PythonPracticeSets.git
